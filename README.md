@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **maru919/maru919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=maru919&count_private=true&show_icons=true&theme=gruvbox_light" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru919&count_private=true&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maru919&rank=S,AAA,AA,A,B,SECRET&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" width="60%" src="https://github-profile-trophy.vercel.app/?username=maru919&rank=S,AAA,AA,A,B,SECRET&theme=gruvbox&column=3" />
+</a>
