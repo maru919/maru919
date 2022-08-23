@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" width="60%" src="https://github-profile-trophy.vercel.app/?username=maru919&rank=S,AAA,AA,A,B,SECRET&theme=gruvbox&column=3" />
 </a>
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru919&theme=gruvbox_light&layout=compact" />
+</a>
+-->
+
