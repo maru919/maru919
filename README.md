@@ -15,27 +15,27 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
+  <img width="100%" src="/profile-summary-card-output/gruvbox/0-profile-details.svg" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" width="49%" src="/profile-summary-card-output/gruvbox/3-stats.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="right" width="49%" src="/profile-summary-card-output/gruvbox/4-productive-time.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img width="49%" src="/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="right" width="49%" src="/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </a>
 
 <!--
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/3-stats.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
-</a>
+[![](/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
-
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
