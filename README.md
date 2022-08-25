@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" width="49%" src="/profile-summary-card-output/gruvbox/3-stats.svg" />
+  <img width="24%" src="/profile-summary-card-output/gruvbox/3-stats.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="right" width="49%" src="/profile-summary-card-output/gruvbox/4-productive-time.svg" />
+  <img width="24%" src="/profile-summary-card-output/gruvbox/4-productive-time.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img width="49%" src="/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
+  <img width="24%" src="/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="right" width="49%" src="/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
+  <img width="24%" src="/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </a>
 
 <!--
