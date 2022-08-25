@@ -13,16 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=maru919&count_private=true&show_icons=true&theme=gruvbox_light" />
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" width="60%" src="https://github-profile-trophy.vercel.app/?username=maru919&rank=S,AAA,AA,A,B,SECRET&theme=gruvbox&column=3" />
+  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
 </a>
+
 <!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru919&theme=gruvbox_light&layout=compact" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/3-stats.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </a>
 -->
 
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
