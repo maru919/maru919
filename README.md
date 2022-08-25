@@ -18,10 +18,6 @@ Here are some ideas to get you started:
   <img width="100%" src="/profile-summary-card-output/gruvbox/0-profile-details.svg" />
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
-</a>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img width="24%" src="/profile-summary-card-output/gruvbox/3-stats.svg" />
 </a>
@@ -35,7 +31,6 @@ Here are some ideas to get you started:
   <img width="24%" src="/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </a>
 
-<!--
-[![](/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
+</a>
