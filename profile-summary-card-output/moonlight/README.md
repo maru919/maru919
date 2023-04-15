@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/maru919/maru919/main/profile-summary-card-output/moonlight/4-productive-time.svg)
-```
-
-    
