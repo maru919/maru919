@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img width="100%" src="/profile-summary-card-output/gruvbox/0-profile-details.svg" />
 </a>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img width="24%" src="/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </a>
-
+-->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=maru919&theme=gruvbox&no-frame=true" />
 </a>
